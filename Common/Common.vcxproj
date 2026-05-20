@@ -77,8 +77,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Core\code.cpp" />
-    <ClCompile Include="Core\code2.cpp" />
     <ClCompile Include="IOCP\Context\Context.h" />
     <ClCompile Include="IOCP\IOCP.cpp" />
     <ClCompile Include="Logger\Logger.cpp" />

@@ -4,6 +4,10 @@
 # Build output
 x64/
 
+# Build Test
+Dummy
+Test
+
 # Optional
 Debug/
 Release/

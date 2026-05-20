@@ -16,9 +16,6 @@
     <Filter Include="Pattern">
       <UniqueIdentifier>{8410bb86-c230-4c7e-a43c-d62b9edfc4fb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Core">
-      <UniqueIdentifier>{6ec64e4c-8db1-4383-a2ff-4e3e380d44df}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Define">
       <UniqueIdentifier>{56acf7bf-eb27-4504-a77c-8288c5691ba5}</UniqueIdentifier>
     </Filter>
@@ -54,9 +51,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Core\code.cpp">
-      <Filter>Core</Filter>
-    </ClCompile>
     <ClCompile Include="Logger\Logger.cpp">
       <Filter>Logger</Filter>
     </ClCompile>
@@ -71,9 +65,6 @@
     </ClCompile>
     <ClCompile Include="Server\Context\Context.cpp">
       <Filter>Server\Context</Filter>
-    </ClCompile>
-    <ClCompile Include="Core\code2.cpp">
-      <Filter>Core</Filter>
     </ClCompile>
     <ClCompile Include="Server\Session\SessionMgr.cpp">
       <Filter>Server\Session</Filter>
