@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+
+# Build output
+x64/
+
+# Optional
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.tlog
+
+# User files
+*.user
+*.suo
